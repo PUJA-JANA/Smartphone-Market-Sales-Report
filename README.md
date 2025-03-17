@@ -1,6 +1,8 @@
 📊 Smartphone Market Sales Analysis – Power BI Dashboard
+
 📌 Project Overview
-This project provides an interactive Power BI dashboard to analyze smartphone sales trends across various dimensions, including brand performance, payment methods, and customer ratings. The insights help businesses make data-driven decisions in the mobile market.
+This project provides an interactive Power BI dashboard to analyze smartphone sales trends across various dimensions, including brand performance, payment methods, and customer ratings. 
+The insights help businesses make data-driven decisions in the mobile market.
 
 🚀 Key Insights
 Total Sales: ₹769M+ | Total Transactions: 4K+
@@ -9,13 +11,16 @@ Best-Selling Models:
 📱 iPhone SE – ₹60M
 📱 OnePlus Nord – ₹58M
 📱 Galaxy Note 20 – ₹56M
+
 Sales Trends:
 Highest sales months: March, July, and August
 Weekdays drive higher sales compared to weekends
+
 Customer Preferences:
 Payment Methods: UPI (26%), Credit Card (25%), Debit Card (25%)
 Ratings: 72% of customers rated their purchase as “Good”
 Sales by City: Mumbai, Bangalore, Hyderabad, and Chennai dominate smartphone sales
+
 📂 Files & Structure
 lua
 Copy
@@ -28,10 +33,12 @@ Edit
 │   │-- sales_trends.png  
 │   │-- year_comparison.png  
 └-- 📑 Data/                                 # (Optional) Sample data files
+
 🛠️ Tools & Technologies
 Power BI – Data Visualization, DAX, Interactive Dashboard
 SQL – Data Cleaning & Preprocessing
 Excel – Data Aggregation & Initial Processing
+
 📥 How to Use
 Download the Power BI file (.pbix) from this repository.
 Open it in Power BI Desktop.
