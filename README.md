@@ -5,7 +5,8 @@ This project provides an interactive Power BI dashboard to analyze smartphone sa
 The insights help businesses make data-driven decisions in the mobile market.
 
 🚀 Key Insights
-Total Sales: ₹769M+ | Total Transactions: 4K+
+Total Sales: ₹769M+
+Total Transactions: 4K+
 Top-Selling Brands: Apple, OnePlus, Samsung, Vivo, Xiaomi
 Best-Selling Models:
 📱 iPhone SE – ₹60M
